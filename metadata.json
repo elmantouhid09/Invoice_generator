@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Generator",
+  "description": "Professional invoice generator for Abstract Digital with live layout preview, local storage invoice history, and master Excel ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
